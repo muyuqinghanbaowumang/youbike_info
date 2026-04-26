@@ -24,7 +24,7 @@ jobs:
 
     - name: Run scraper
       run: |
-        python youbike.py
+        python parkinginfo.py
 
     - name: Commit and push data
       run: |
